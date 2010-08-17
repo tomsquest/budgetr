@@ -1,7 +1,7 @@
 BudgetR.com - Track your financial goals
 ========================================
 
-Homepage for [www.BudgetR.com]
+Homepage for [BudgetR.com](http://www.budgetr.com "BudgetR.com - Track your financial goals") 
 
 
 
